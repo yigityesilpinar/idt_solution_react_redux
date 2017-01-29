@@ -1,7 +1,8 @@
 ## Motivation
 
 Solution for the task given by IDT Messaging.
-Simple Chat Application 
+
+Simple Chat Application with Node.js, Express.js, Socket.io, React/Redux, Webpack
 
 ## Installation
 
