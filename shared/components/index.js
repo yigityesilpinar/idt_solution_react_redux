@@ -8,7 +8,7 @@ class App extends React.Component {
       <div className="site-view">
         {/* <Header /> */}
         {this.props.children}
-        {/* <Header /> */}
+        {/* <Footer /> */}
       </div>
     );
   }
